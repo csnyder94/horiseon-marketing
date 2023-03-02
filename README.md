@@ -1,5 +1,7 @@
 # Horiseon Marketing Webpage
 
+https://csnyder94.github.io/horiseon-marketing/#search-engine-optimization
+
 ## Description
 
 This project was to clean up HTML/CSS for Horiseon Marketing. It contains edits to the original starter code in both HTML and CSS.
