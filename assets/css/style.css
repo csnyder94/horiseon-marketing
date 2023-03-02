@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header padding sets space around header element // sets font family and colors */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Header Nav Float sets "clickable links" to right side of nav bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,7 +48,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Hero attribute sets picture size and location */
 .hero {
     height: 800px;
     width: 100%;
@@ -99,7 +99,7 @@ p {
     margin-left: 20px;
 }
 
-/* Combined Aside Elements */
+/* Combined Aside Elements (Controls how elements are viewed on right-side of webpage*/
 
 aside {
     margin-right: 20px;
@@ -128,7 +128,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Sets footer location on webpage (center and font size 20) */
 footer {
     padding: 30px;
     clear: both;
